@@ -1,0 +1,44 @@
+.calculator {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  top: 80px;
+  border: solid black;
+  width: 500px;
+  left: 340px;
+  height: 300px;
+  border-radius: 10px;
+  gap: 4px;
+}
+.calculator button {
+  position: relative;
+  background-color: antiquewhite;
+  width: 100px;
+  height: 40px;
+  right: 50px;
+}
+
+.prvi button {
+  position: relative;
+  width: 308px;
+  bottom: 10px;
+}
+
+.cetvrtired {
+  position: relative;
+  left: 52px;
+}
+.petired {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  left: 408px;
+  gap: 4px;
+}
+.dugmezabrisnaje {
+  position: relative;
+  left: 207px;
+  bottom: 230px;
+}
