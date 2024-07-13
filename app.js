@@ -16,4 +16,4 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-//eval uzima string i izvrsava kod unutar tog stringa npr eval (2+2)
+
